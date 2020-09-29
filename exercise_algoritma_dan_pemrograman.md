@@ -1,8 +1,10 @@
 # Exercise Algoritma dan Pemrograman
 
-> NIM  : E31200844
+> NIM   : E31200844
 
-> Nama : Lukman Afandi
+> Nama  : Lukman Afandi
+
+> Prodi : Manajemen Informatika
 
 ### Ada sebuah Algoritma Dimanakah letak kesalahan logika algoritma tersebut ?
 
