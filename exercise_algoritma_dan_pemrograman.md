@@ -4,7 +4,6 @@
 
 > Nama : Lukman Afandi
 
-
 ### Ada sebuah Algoritma Dimanakah letak kesalahan logika algoritma tersebut ?
 
  ```sh
