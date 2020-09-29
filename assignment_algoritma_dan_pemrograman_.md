@@ -1,4 +1,4 @@
-# Assigment Algoritma dan Pemrograman 
+# Assignment Algoritma dan Pemrograman 
 
 > NIM   : E31200844
 
@@ -6,7 +6,7 @@
 
 > Prodi : Manajemen Informatika
 
-### Algoritma Menghitung Korversi Suhu dari Celcius ke Fahrenheit
+### Algoritma Menghitung Konversi Suhu dari Celcius ke Fahrenheit
  ```sh
 1. Mulai
 2. Membaca input dalam satuan Celcius ( C )
