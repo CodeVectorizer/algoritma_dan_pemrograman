@@ -16,7 +16,8 @@
 5. Menakar bahan-bahan yang akan di pakai membuat kue
 6. Menyiapkan alat : spatula, Loyang/vetakan, tempat adonan,mixer
 7. Tuang adonan kedalam Loyang
-8. Masukkan Loyang yang sudah berisi adonan kedalam oven yang sudah dipanaskan selama 20 menit dengan suhu 150 derajat. Oven selama 45 menit
+8. Masukkan Loyang yang sudah berisi adonan kedalam oven yang sudah 
+    dipanaskan selama 20 menit dengan suhu 150 derajat. Oven selama 45 menit
 ```
 
  
@@ -35,6 +36,7 @@
 4. Menakar bahan-bahan yang akan di pakai membuat kue
 5. Mengaduk bahan menjadi adonan
 6. Tuang adonan kedalam Loyang
-7. Masukkan Loyang yang sudah berisi adonan kedalam oven yang sudah dipanaskan selama 20 menit dengan suhu 150 derajat. Oven selama 45 menit
+7. Masukkan Loyang yang sudah berisi adonan kedalam oven yang sudah 
+     dipanaskan selama 20 menit dengan suhu 150 derajat. Oven selama 45 menit
 8. Kue siap dihidangkan
 ```
