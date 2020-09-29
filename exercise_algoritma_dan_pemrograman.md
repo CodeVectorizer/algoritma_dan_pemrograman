@@ -1,6 +1,7 @@
 # Assigment Algoritma dan Pemrograman
 
 > NIM  : E31200844
+
 > Nama : Lukman Afandi
 
 
@@ -25,8 +26,8 @@
  
   ```sh
 1. Menyalakan oven
-2. Menyiapkan bahan : tepung , telur, susu, mentega, gula
-3. Menyiapkan alat : spatula, Loyang/vetakan, tempat adonan,mixer
+2. Menyiapkan alat : spatula, Loyang/vetakan, tempat adonan,mixer
+3. Menyiapkan bahan : tepung , telur, susu, mentega, gula
 4. Menakar bahan-bahan yang akan di pakai membuat kue
 5. Mengaduk bahan menjadi adonan
 6. Tuang adonan kedalam Loyang
