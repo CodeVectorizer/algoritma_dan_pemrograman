@@ -1,4 +1,4 @@
-# Exercise Algoritma dan Pemrograman
+# Assigment Algoritma dan Pemrograman
 
 > NIM   : E31200844
 
