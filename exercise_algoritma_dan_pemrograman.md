@@ -1,4 +1,4 @@
-# Assigment Algoritma dan Pemrograman
+# Exercise Algoritma dan Pemrograman
 
 > NIM  : E31200844
 
@@ -21,8 +21,11 @@
  
 
 ### Jawaban :
- karena urutan langkah dalam Algoritma pembuatan kue tersebut tidak logis dan tidak sistematis, 
- seharusnya urutan langkah pembuatan kue seperti dibawah ini : 
+ Karena urutan langkah dalam Algoritma pembuatan kue diatas tidak logis dan tidak sistematis,
+ dalam membuat sebuah algoritma seharusnya langkah-langkah yang dibuat harusnya logis dan sistematis
+ sehingga dapat menemukan penyelesain masalah.
+ 
+ Urutan langkah pembuatan kue yang benar : 
  
   ```sh
 1. Menyalakan oven
