@@ -1,5 +1,3 @@
-package latihan;
-
 // Pertama kita import dulu script dibawah ini
 import java.util.Scanner;
 
