@@ -5,7 +5,7 @@ import java.util.Scanner;
  *
  * @author CodeVector-PC
  */
-public class NilaiHuruf {
+public class PenilaianHuruf {
     public static void main(String[] args){
         // kita inisialisasi scanner menggunakan alias input 
         Scanner input = new Scanner(System.in);        
